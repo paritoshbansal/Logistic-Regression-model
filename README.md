@@ -1,5 +1,5 @@
 # Logistic-Regression-model
-Predict STATUS based on JEEPRE and JEEMAINS using KNN Classification from students csv
+Predict STATUS based on JEEPRE and JEEMAINS using logistic regression from students csv
 
 # Used Libraries
 Python Version : 3.6
